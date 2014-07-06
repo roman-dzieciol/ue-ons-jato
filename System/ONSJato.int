@@ -1,0 +1,18 @@
+[DamTypeJato]
+DeathString="%k killed %o."
+FemaleSuicide="To The Moon %o! To The Moon!"
+MaleSuicide="To The Moon %o! To The Moon!"
+
+[JatoAmmo]
+ItemName="Plasma Ammo"
+
+[JatoAmmoPickup]
+PickupMessage="You picked up some Jato kits"
+
+[JatoGun]
+Description="JATO is a system for helping overloaded planes into the air by providing additional thrust in the form of small rockets. Attaching it to other vehicles or humans is NOT recommended. Brought to you by a company that makes everything."
+ItemName="ACME Jato Kit"
+
+[JatoPickup]
+PickupMessage="You got the ACME Jato Kit."
+
